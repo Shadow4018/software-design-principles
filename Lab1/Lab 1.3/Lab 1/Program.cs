@@ -18,7 +18,7 @@ static bool KingAttacks(int kx, int ky, int x, int y)
 
 static bool FerzAttacks(int qx, int qy, int x, int y)
 {
-    return Math.Abs(qx - x) == Math.Abs(qy - y);
+    return Math.Abs(qx - x) == Math.Abs(qy - y) || qx == x || qy == y;
 }
 
 static bool PawnAttacks(int px, int py, int x, int y)
@@ -33,7 +33,7 @@ int ky = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input the coords of the Ferz Pawn: ");
 int fx = Convert.ToInt32(Console.ReadLine());
 int fy = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Input the coords of the Ferz Pawn: ");
+Console.WriteLine("Input the coords of the Pawn: ");
 int px = Convert.ToInt32(Console.ReadLine());
 int py = Convert.ToInt32(Console.ReadLine());
 
@@ -53,24 +53,24 @@ if ((kx == fx && ky == fy) || (kx == px && ky == py) || (fx == px && fy == py))
 
 //Kings move
 if (KingAttacks(kx, ky, px, py))
-    Console.WriteLine("King is on ATTACK!");
+    Console.WriteLine("King is on ATTACK -> black pawn!");
 else if (PawnAttacks(px, py, fx, fy) && KingAttacks(kx, ky, fx, fy))
-    Console.WriteLine("King is on PROTECT!");
+    Console.WriteLine("King is on PROTECT -> white ferz!");
 else
     Console.WriteLine("Just a silly move ^_^");
 
 //Ferz move
 if (FerzAttacks(fx, fy, px, py))
-    Console.WriteLine("Ferz is on ATTACK!");
+    Console.WriteLine("Ferz is on ATTACK -> black pawn!");
 else if (PawnAttacks(px, py, kx, ky) && FerzAttacks(fx, fy, kx, ky))
-    Console.WriteLine("Ferz is on PROTECT!");
+    Console.WriteLine("Ferz is on PROTECT -> white king!");
 else
     Console.WriteLine("Just a silly move ^_^");
 
 //Pawn move
 if (PawnAttacks(px, py, kx, ky))
-    Console.WriteLine("Pawn is on ATTACK!");
+    Console.WriteLine("Pawn is on ATTACK -> white king!");
 else if (PawnAttacks(px, py, fx, fy))
-    Console.WriteLine("Pawn is on ATTACK!");
+    Console.WriteLine("Pawn is on ATTACK -> white ferz!");
 else
     Console.WriteLine("Just a silly move ^_^");
