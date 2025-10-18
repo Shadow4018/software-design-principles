@@ -35,7 +35,6 @@ namespace Lab3._3
             string[] words2 = input2.Split('.', ' ', ',');
 
             string message = "";
-            string origMessage = "";
 
             for (int i = 0; i < words.Length; i++)
             {
@@ -49,7 +48,10 @@ namespace Lab3._3
             }
 
             for (int i = 0; i < words2.Length; i++) {
-                message += words2[i] + " ";
+                if (words2[i] != "")
+                {
+                    message += words2[i] + "; ";
+                }
             }
 
             label3.Text = "Текст без повторюваних слів: " + string.Join(", ", message);

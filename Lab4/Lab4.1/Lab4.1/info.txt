@@ -1,0 +1,5 @@
+Lion the King;Rob Minkoff;1994;USA;45 000 000;968 000 000;Walt Disney
+Aladdin;Ron Clements, John Musker;1992;USA;28 000 000;504 000 000;Walt Disney
+Shrek;Andrew Adamson, Vicky Jenson;2001;USA;60 000 000;484 000 000;DreamWorks
+Coco;Lee Unkrich, Adrian Molina;2017;USA;175 000 000;807 000 000;Pixar
+Madagascar;Eric Darnell, Tom McGrath;2005;USA;75 000 000;532 000 000;DreamWorks
