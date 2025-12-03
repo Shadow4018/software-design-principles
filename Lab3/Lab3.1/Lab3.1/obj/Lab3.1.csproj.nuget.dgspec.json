@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\GitHub\\software-design-principles\\Lab3.1\\Lab3.1\\Lab3.1.csproj": {}
+    "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.1\\Lab3.1\\Lab3.1.csproj": {}
   },
   "projects": {
-    "D:\\projects\\GitHub\\software-design-principles\\Lab3.1\\Lab3.1\\Lab3.1.csproj": {
+    "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.1\\Lab3.1\\Lab3.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\GitHub\\software-design-principles\\Lab3.1\\Lab3.1\\Lab3.1.csproj",
+        "projectUniqueName": "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.1\\Lab3.1\\Lab3.1.csproj",
         "projectName": "Lab3.1",
-        "projectPath": "D:\\projects\\GitHub\\software-design-principles\\Lab3.1\\Lab3.1\\Lab3.1.csproj",
+        "projectPath": "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.1\\Lab3.1\\Lab3.1.csproj",
         "packagesPath": "C:\\Users\\I\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\GitHub\\software-design-principles\\Lab3.1\\Lab3.1\\obj\\",
+        "outputPath": "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.1\\Lab3.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

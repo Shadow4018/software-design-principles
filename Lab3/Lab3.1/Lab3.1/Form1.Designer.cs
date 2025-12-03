@@ -63,11 +63,12 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(342, 139);
+            label2.Location = new Point(315, 140);
             label2.Name = "label2";
             label2.Size = new Size(108, 20);
             label2.TabIndex = 3;
             label2.Text = "Кількість слів: ";
+            //label2.Click += label2_Click;
             // 
             // Form1
             // 

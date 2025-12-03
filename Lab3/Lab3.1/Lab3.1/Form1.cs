@@ -25,7 +25,7 @@ namespace Lab3._1
                     count++;
                     flag = true;
                 }
-                if(ch[i] == ' ' && flag == true)
+                if ((ch[i] == ' ' || ch[i] == ',' || ch[i] == '.') && flag == true)
                 {
                     flag = false;
                 }

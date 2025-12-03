@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\projects\\GitHub\\software-design-principles\\Lab3.3\\",
+  "WorkspaceRootPath": "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{674A552B-A175-4910-B2CF-40F1C83B6ABF}|Lab3.3\\Lab3.3.csproj|d:\\projects\\github\\software-design-principles\\lab3.3\\lab3.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{674A552B-A175-4910-B2CF-40F1C83B6ABF}|Lab3.3\\Lab3.3.csproj|d:\\projects\\github\\software-design-principles\\lab3\\lab3.3\\lab3.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{674A552B-A175-4910-B2CF-40F1C83B6ABF}|Lab3.3\\Lab3.3.csproj|solutionrelative:lab3.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{674A552B-A175-4910-B2CF-40F1C83B6ABF}|Lab3.3\\Lab3.3.csproj|d:\\projects\\github\\software-design-principles\\lab3.3\\lab3.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{674A552B-A175-4910-B2CF-40F1C83B6ABF}|Lab3.3\\Lab3.3.csproj|D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.3\\lab3.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{674A552B-A175-4910-B2CF-40F1C83B6ABF}|Lab3.3\\Lab3.3.csproj|solutionrelative:lab3.3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\projects\\GitHub\\software-design-principles\\Lab3.3\\Lab3.3\\Form1.cs",
+              "DocumentMoniker": "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.3\\Lab3.3\\Form1.cs",
               "RelativeDocumentMoniker": "Lab3.3\\Form1.cs",
-              "ToolTip": "D:\\projects\\GitHub\\software-design-principles\\Lab3.3\\Lab3.3\\Form1.cs",
+              "ToolTip": "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.3\\Lab3.3\\Form1.cs",
               "RelativeToolTip": "Lab3.3\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAgwDAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T15:18:14.986Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\projects\\GitHub\\software-design-principles\\Lab3.3\\Lab3.3\\Form1.cs",
+              "DocumentMoniker": "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.3\\Lab3.3\\Form1.cs",
               "RelativeDocumentMoniker": "Lab3.3\\Form1.cs",
-              "ToolTip": "D:\\projects\\GitHub\\software-design-principles\\Lab3.3\\Lab3.3\\Form1.cs [Design]",
+              "ToolTip": "D:\\projects\\GitHub\\software-design-principles\\Lab3\\Lab3.3\\Lab3.3\\Form1.cs [Design]",
               "RelativeToolTip": "Lab3.3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-28T15:16:48.19Z",

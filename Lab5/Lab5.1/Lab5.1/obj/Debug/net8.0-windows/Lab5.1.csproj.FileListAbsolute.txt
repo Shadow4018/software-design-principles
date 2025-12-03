@@ -1,0 +1,17 @@
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\bin\Debug\net8.0-windows\Lab5.1.exe
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\bin\Debug\net8.0-windows\Lab5.1.deps.json
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\bin\Debug\net8.0-windows\Lab5.1.runtimeconfig.json
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\bin\Debug\net8.0-windows\Lab5.1.dll
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\bin\Debug\net8.0-windows\Lab5.1.pdb
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5._1.Form1.resources
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5.1.csproj.GenerateResource.cache
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5.1.AssemblyInfoInputs.cache
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5.1.AssemblyInfo.cs
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5.1.csproj.CoreCompileInputs.cache
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5.1.sourcelink.json
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5.1.dll
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\refint\Lab5.1.dll
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5.1.pdb
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\Lab5.1.genruntimeconfig.cache
+D:\projects\GitHub\software-design-principles\Lab5\Lab5.1\Lab5.1\obj\Debug\net8.0-windows\ref\Lab5.1.dll
